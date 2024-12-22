@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <version.org.swinglabs.swingx>1.6.5</version.org.swinglabs.swingx>
+        <version.org.swinglabs.swingx>1.6.1</version.org.swinglabs.swingx>
     </properties>
     <dependencyManagement>
         <dependencies>
